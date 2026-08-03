@@ -1,85 +1,100 @@
-# Addendums A–AA
+# Addendums A–AA  
+### Domain‑Specific Clarifications
 
-This page contains short, abbreviated summaries of all EVB Theory addendums (A–AA).  
-Each addendum will later be expanded into its own full Markdown file.
+The Addendums expand EVB Theory into specific physical domains.  
+Each section provides boundary‑timing and collapse‑cycle explanations for phenomena that appear disconnected in standard physics.
 
-## Addendum A — Boundary Timing in Extreme Conditions
-Abbreviated notes on timing behavior under extreme energy, pressure, or temperature.
+## A. Sound Anomalies  
+Clarifications include:
+- Second sound  
+- Negative group‑velocity phonons  
+- Acoustic black holes  
+- BEC sound behavior  
+- Shock‑wave timing  
+- Plasma sound modes  
+- Acoustic solitons  
+- Phonon interference  
+- Metamaterial acoustics  
 
-## Addendum B — Cross‑Scale Analog Behavior
-Abbreviated notes on analog timing behavior across atomic, mechanical, and cosmological scales.
+All sound anomalies arise from timing reinforcement and collapse‑cycle transitions.
 
-## Addendum C — Clarifications for Known Anomalies
-Abbreviated notes on sound, phonon, and wave anomalies.
+## B. Antimatter Atoms Acting Like Waves  
+Explains why antimatter atoms exhibit wave‑like behavior under boundary‑timing conditions.
 
-## Addendum D — Quantum Boundary Timing
-Abbreviated notes on quantum timing behavior including tunneling and wave‑state transitions.
+## C. Quantum Oscillations Inside Insulators  
+Shows how collapse‑cycle reinforcement allows oscillations to persist in materials that should not support them.
 
-## Addendum E — Cosmological Timing Notes
-Abbreviated notes on timing drift, vacuum behavior, and cosmic trajectories.
+## D. Why Solids Are Solid  
+Clarifies how reinforced coherence and boundary‑timing produce rigidity.
 
-## Addendum F — Experimental Edge Cases
-Abbreviated notes on unusual experimental timing phenomena.
+## E. Can Empty Space Create a Force  
+Explains vacuum structure and timing reinforcement.
 
-## Addendum G — Timing Stability Thresholds
-Abbreviated notes on when systems maintain or lose timing alignment.
+## F. Does Time Move at Different Speeds  
+Boundary‑timing clarifies time‑rate differences across scales.
 
-## Addendum H — Phase‑Transition Timing
-Abbreviated notes on timing behavior during rapid or delayed phase changes.
+## G. Can Observation Freeze Time  
+Explains collapse‑cycle locking during measurement.
 
-## Addendum I — Energy‑Transfer Timing
-Abbreviated notes on timing constraints in energy exchange processes.
+## H. How Something Exists in Two States at Once  
+Shows how reinforced and unreinforced states coexist before collapse.
 
-## Addendum J — Structural Timing in Materials
-Abbreviated notes on timing effects in solids, liquids, and transitional states.
+## I. Quantum Tunneling  
+Explains tunneling as a timing‑reinforcement transition.
 
-## Addendum K — Wave‑Boundary Interactions
-Abbreviated notes on timing behavior at wave boundaries and interfaces.
+## J. Cosmic‑Ray Muon “Impossible” Trajectories  
+Clarifies timing‑rate reinforcement at relativistic speeds.
 
-## Addendum L — Resonance Timing
-Abbreviated notes on timing conditions that produce or suppress resonance.
+## K. Sudden Symmetry Breaking  
+Explains supercooled transitions using collapse‑cycle mechanics.
 
-## Addendum M — Timing in Rotational Systems
-Abbreviated notes on timing behavior in spinning or rotating systems.
+## L. Vacuum Is Not Empty  
+Shows how boundary‑timing structures exist even in apparent emptiness.
 
-## Addendum N — Timing in Constrained Systems
-Abbreviated notes on timing behavior under geometric or mechanical constraints.
+## M. Bouncing‑Droplet Quantum Analog  
+Clarifies boundary‑timing behavior in pilot‑wave analog systems.
 
-## Addendum O — Timing in Open Systems
-Abbreviated notes on timing behavior in systems with external energy flow.
+## N. Laser‑Suspended Soundwave Timing  
+Explains reinforcement in optically trapped acoustic modes.
 
-## Addendum P — Timing in Closed Systems
-Abbreviated notes on timing behavior in isolated or sealed systems.
+## O. Spinning‑Superconductor Antigravity Claims  
+Clarifies timing‑cycle misinterpretations in rotating superconductors.
 
-## Addendum Q — Timing in Multi‑Body Systems
-Abbreviated notes on timing interactions between multiple coupled bodies.
+## P. Faster‑Than‑Light Neutrino Claims  
+Explains boundary‑timing measurement artifacts.
 
-## Addendum R — Timing in Field‑Driven Systems
-Abbreviated notes on timing behavior influenced by electromagnetic or gravitational fields.
+## Q. EVB Entanglement Timing  
+Clarifies how entanglement fits into collapse‑cycle reinforcement.
 
-## Addendum S — Timing in Non‑Linear Systems
-Abbreviated notes on timing behavior in systems with non‑linear responses.
+## R. Higgs Boson “Blip”  
+Explains timing‑cycle reinforcement during particle detection.
 
-## Addendum T — Timing in Dissipative Systems
-Abbreviated notes on timing behavior where energy loss affects system evolution.
+## S. Double‑Slit Observation Behavior  
+Clarifies collapse‑cycle locking when measurement occurs.
 
-## Addendum U — Timing in Amplifying Systems
-Abbreviated notes on timing behavior where energy gain alters system stability.
+## T. Collapse‑Cycle Timing in Biological Systems  
+Explains timing reinforcement in biological oscillators and signaling pathways.
 
-## Addendum V — Timing in Oscillatory Systems
-Abbreviated notes on timing behavior in periodic or quasi‑periodic systems.
+## U. Collapse‑Cycle Behavior in Chemical Reactions  
+Clarifies timing alignment during reaction initiation and termination.
 
-## Addendum W — Timing in Threshold Systems
-Abbreviated notes on timing behavior near critical thresholds.
+## V. Timing Reinforcement in Fluid Instabilities  
+Explains collapse‑cycle transitions in vortices, turbulence, and laminar breakdown.
 
-## Addendum X — Timing in Emergent Systems
-Abbreviated notes on timing behavior in systems with emergent properties.
+## W. Collapse‑Cycle Effects in Plasma Confinement  
+Clarifies timing behavior in magnetically confined plasma systems.
 
-## Addendum Y — Timing in Transitional Systems
-Abbreviated notes on timing behavior during state transitions.
+## X. Collapse‑Cycle Timing in Gravitational Systems  
+Explains timing reinforcement in orbital stability and gravitational anomalies.
 
-## Addendum Z — Timing in Boundary‑Driven Systems
-Abbreviated notes on timing behavior dominated by boundary conditions.
+## Y. Collapse‑Cycle Behavior in Phase‑Change Materials  
+Clarifies timing alignment during melting, freezing, and metastable transitions.
 
-## Addendum AA — Timing in Extreme‑Limit Systems
-Abbreviated notes on timing behavior near theoretical or physical limits.
+## Z. Collapse‑Cycle Timing in High‑Energy Collisions  
+Explains timing reinforcement during particle‑collision state transitions.
+
+## AA. Collapse‑Cycle Behavior in Extreme‑Limit Systems  
+Clarifies timing behavior near theoretical limits, including near‑singularity and near‑zero‑energy regimes.
+
+Each addendum expands the core EVB architecture into a specific domain.  
+More sections will be added as Version 6 continues to grow.
