@@ -4,8 +4,8 @@ site_author: EV Bene
 repo_url: https://osf.io/  # Update to Version-6 DOI once public
 
 theme:
-  name: mkdocs
-  highlightjs: true
+  theme:
+  name: material
   navigation_depth: 3
 
 nav:
