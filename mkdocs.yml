@@ -1,0 +1,19 @@
+site_name: EVB Theory
+site_description: A cross-scale physical framework by EV Bene
+site_author: EV Bene
+repo_url: https://osf.io/  # Update to Version-6 DOI once public
+
+theme:
+  name: mkdocs
+  highlightjs: true
+  navigation_depth: 3
+
+nav:
+  - Home: index.md
+  - EVB Theory Overview: overview.md
+  - Version 6 Release: version6.md
+  - EVB Primer: primer.md
+  - Addendums A–AA: addendums.md
+  - Predictions & Phenomena: predictions.md
+  - For Researchers: researchers.md
+  - Contact: contact.md
