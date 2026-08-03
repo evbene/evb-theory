@@ -1,10 +1,10 @@
 # Contact  
-### EV Bene (Manny)
+### EV Bene 
 
 For questions, collaboration, or research discussion related to EVB Theory Version 6, you may contact:
 
-**EV Bene (Manny)**  
-Email: **mlotohio@gmail.com**
+**EV Bene**  
+Email: **evbene@proton.me**
 
 Please include:
 
