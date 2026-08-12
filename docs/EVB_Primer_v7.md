@@ -1,8 +1,6 @@
 # Entropy‑Vector Boundary Theory (EVB Theory)
 ## Version 7 — Primer
 
-# Entropy‑Vector Boundary Theory (EVB Theory)
-## Version 7 — Primer
 
 The EVB Primer provides a concise, high‑clarity introduction to the core concepts of Entropy‑Vector Boundary Theory. It is designed for researchers, engineers, and physicists who want a fast, intuitive understanding of the EVB timing‑geometry framework without reading the full main document.
 
