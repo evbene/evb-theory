@@ -18,7 +18,7 @@ EVB Theory explains:
 • How complexity increases through timing‑cycle emergence
 EVB Theory reframes physics, biology, cognition, and emergence as timing behavior rather than force‑based or substance‑based mechanisms.
 ---
-What’s New in Version 7
+What’s New in Version 7. 
 Version 7 is a complete reorganization and modernization of EVB Theory.
 It includes:
 • A fully continuous theory document
