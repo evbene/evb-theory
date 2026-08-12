@@ -1,4 +1,4 @@
-Entropy-Vector Boundary Theory (EVB Theory) — Homepage
+#Entropy-Vector Boundary Theory (EVB Theory) — Homepage
 
 EVB Theory Version 7 presents a unified, continuous explanation of how reality behaves through timing.
 Everything that exists, persists, moves, interacts, collapses, or evolves does so because timing‑cycles repeat, reinforce, drift, collapse, and reorganize across all scales.
