@@ -1,1 +1,27 @@
+site_name: EVB Theory Version 7
+site_url: https://evbene.github.io/evb-theory/
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+
+  - EVB Theory Version 7:
+    - EVB Theory (Continuous): EVB_Main_v7_Continuous.md
+    - Part 1: EVB_Main_v7_Part1.md
+    - Part 2: EVB_Main_v7_Part2.md
+    - Part 3: EVB_Main_v7_Part3.md
+    - Primer: EVB_Primer_v7.md
+    - Addendums: EVB_Addendums_v7.md
+    - Researchers: researchers_v7.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - tables
+  - fenced_code
+  - admonition
+  - footnotes
+  - attr_list
 
