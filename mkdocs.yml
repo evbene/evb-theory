@@ -1,19 +1,43 @@
-site_name: EVB Theory
-site_description: A cross-scale physical framework by EV Bene
+site_name: Entropy‑Vector Boundary Theory
+site_description: EVB Theory Version 7 — Unified Timing‑Geometry Framework
 site_author: EV Bene
-repo_url: https://osf.io/  # Update to Version-6 DOI once public
 
 theme:
-  theme:
   name: material
-  navigation_depth: 3
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.expand
+    - content.code.copy
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - footnotes
+  - tables
+  - attr_list
 
 nav:
-  - Home: index.md
-  - EVB Theory Overview: overview.md
-  - Version 6 Release: version6.md
-  - EVB Primer: primer.md
-  - Addendums A–AA: addendums.md
-  - Predictions & Phenomena: predictions.md
-  - For Researchers: researchers.md
-  - Contact: contact.md
+  - Home: index_V7.md
+
+  - EVB Theory Version 7:
+      - EVB Theory (Continuous): EVB_Main_v7_Part1.md
+      - "": EVB_Main_v7_Part2.md
+      - "": EVB_Main_v7_Part3.md
+      - Primer: EVB_Primer_v7.md
+      - Addendums: EVB_Addendums_v7.md
+      - Researchers: researchers_v7.md
+      - Contact: contact.md
+
+  - EVB Theory Version 6 (Archive):
+      - Overview: version6.md
+      - Primer: primer.md
+      - Addendums: addendums.md
+      - Predictions: predictions.md
+      - Researchers: researchers.md
+
+extra:
+  social:
+    - icon: fontawesome/solid/envelope
+      link: mailto:evbene@proton.me
