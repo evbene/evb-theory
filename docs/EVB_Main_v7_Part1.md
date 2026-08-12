@@ -1,4 +1,4 @@
-# Entropy‑Vector Boundary Theory (EVB Theory)
+# Entropy-Vector Boundary Theory (EVB Theory)
 Author: EV Bene  
 Contact: evbene@proton.me  
 DOI: 10.17605/OSF.IO/395QD  
