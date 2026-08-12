@@ -22,7 +22,7 @@ nav:
   - Home: index.md
 
 - EVB Theory Version 7:
-      - EVB Theory (Continuous): EVB_Main_v7_Part1.md
+      - EVB Theory (Continuous): EVB_Main_v7_Continuous.md
       - Part 2: EVB_Main_v7_Part2.md
       - Part 3: EVB_Main_v7_Part3.md
       - Primer: EVB_Primer_v7.md
