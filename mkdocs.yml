@@ -1,5 +1,6 @@
 site_name: EVB Theory Version 7
 site_url: https://evbene.github.io/evb-theory/
+site_description: "Entropy-Vector Boundary Theory (EVB Theory) — Unified timing-based physics framework."
 
 theme:
   name: material
@@ -23,3 +24,6 @@ markdown_extensions:
   - footnotes
   - attr_list
 
+plugins:
+  - search
+  - sitemap
