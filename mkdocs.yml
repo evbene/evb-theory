@@ -19,7 +19,7 @@ markdown_extensions:
   - attr_list
 
 nav:
-  - Home: index_V7.md
+  - Home: index.md
 
   - EVB Theory Version 7:
       - EVB Theory (Continuous): EVB_Main_v7_Part1.md
