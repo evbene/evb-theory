@@ -30,13 +30,6 @@ nav:
       - Researchers: researchers_v7.md
       - Contact: contact.md
 
-  - EVB Theory Version 6 (Archive):
-      - Overview: version6.md
-      - Primer: primer.md
-      - Addendums: addendums.md
-      - Predictions: predictions.md
-      - Researchers: researchers.md
-
 extra:
   social:
     - icon: fontawesome/solid/envelope
